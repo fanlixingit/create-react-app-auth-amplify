@@ -11,7 +11,7 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-		<h1>Hello CodeSandbox</h1>
+		<h1>Hello Lixin</h1>
 		<h2>Start editing to see some magic happen!</h2>
   		</header>
       </div>
