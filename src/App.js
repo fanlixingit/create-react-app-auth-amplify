@@ -6,12 +6,14 @@ import Amplify, { Auth } from 'aws-amplify';
 import aws_exports from './aws-exports';
 Amplify.configure(aws_exports);
 
+
+
 class App extends Component {
   render() {
     return (
       <div className="App">
         <header className="App-header">
-		<h1>Hello Lixin</h1>
+		<h1>Hello Lixin. Test from new PC/</h1>
 		<h2>Start editing to see some magic happen!</h2>
   		</header>
       </div>
