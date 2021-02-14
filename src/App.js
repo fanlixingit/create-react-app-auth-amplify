@@ -13,7 +13,7 @@ class App extends Component {
         <header className="App-header">
         <body>
         <iframe width="420" height="315"
-src="https://www.youtube.com/watch?v=nS7HJuXOv-4&ab_channel=offcampusrental">
+          src="https://www.youtube.com/embed/nS7HJuXOv-4">
 </iframe>
 
 
